@@ -1,4 +1,4 @@
-# Najmus Adib
+# Hi there 👋, I'm Najmus Adib!
 
 ---
 
@@ -59,6 +59,7 @@ Here's a snapshot of the technologies and tools I work with:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NajmusAdib&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Najmus Adib GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajmusAdib&layout=compact&theme=dark" alt="Najmus Adib Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NajmusAdib&theme=dark" alt="GitHub Streak" />
 </div>
 
 ---
@@ -66,11 +67,19 @@ Here's a snapshot of the technologies and tools I work with:
 ### Let's Connect 🌐
 
 <p align="center">
-  <a href="https://www.reddit.com/user/YOUR_REDDIT_USERNAME" target="_blank"> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR_X_USERNAME" target="_blank"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)" />
+  <a href="https://twitter.com/YOUR_X_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)" />
   </a>
-</p>
+  <a href="https://www.reddit.com/user/YOUR_REDDIT_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  </p>
 
 ---
 
@@ -82,11 +91,25 @@ Here's a snapshot of the technologies and tools I work with:
 
 ---
 
+### 💬 Ask Me About...
+
+* Front-end development best practices
+* Building interactive web applications
+* Learning resources for web development
+* Creating clean and maintainable code
+
+---
+
 ### Featured Projects 🚀
 
 *(Here, briefly highlight 1-3 of your most impressive or recent projects. Make sure they have good READMEs themselves!)*
 
-* **[Project Name 1]**: A concise description of this project's purpose and key features. ([Link to Repo](https://github.com/NajmusAdib/your-repo-name-1))
-* **[Project Name 2]**: An overview of what this project does and the technologies used. ([Link to Repo](https://github.com/NajmusAdib/your-repo-name-2))
+* **[LinkVault - Enhanced Bookmark Manager](https://github.com/NajmusAdib/LinkVault)**: A modern, client-side web application for organizing and managing web links with drag-and-drop reordering, intelligent data fetching, and flexible import/export options. Built with HTML, CSS, JavaScript, and Local Storage.
+* **[Kana Learning - Japanese Kana Trainer](https://github.com/NajmusAdib/KanaLearning)**: An interactive web application designed to help users learn and practice Japanese Hiragana and Katakana characters. Features include character drills, quizzes, and progress tracking.
 
 ---
+
+### Profile Views 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{NajmusAdib}/count.svg" alt="Profile views">
+</p>
